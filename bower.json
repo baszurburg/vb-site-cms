@@ -1,0 +1,19 @@
+{
+  "name": "vb-site",
+  "version": "0.0.1",
+  "description": "vb site cms",
+  "team": "ICWS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baszurburg/vb-site-cms"
+  },
+  "authors": [
+    "Bas Zurburg"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.7.1",
+    "paper-button": "PolymerElements/paper-button#^1.0.14"
+  },
+  "devDependencies": {
+  }
+}
