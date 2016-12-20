@@ -1,6 +1,20 @@
 {
-  "name": "vb-site",
-  "version": "0.0.0",
+  "name": "vb-site-cms",
+  "version": "0.0.1",
+  "main": "keystone.js",
+  "keywords": [
+    "keystone",
+    "vb-site",
+    "vb-site-cms"],
+  "team": "ICWS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baszurburg/vb-site-cms"
+  },
+  "homepage": "https://github.com/baszurburg/vb-site-cms",
+  "bugs": {
+    "url": "https://github.com/baszurburg/vb-site-cms/issues"
+  },  
   "private": true,
   "dependencies": {
     "keystone": "^0.3.19",

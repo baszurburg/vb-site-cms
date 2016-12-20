@@ -1,0 +1,29 @@
+{
+  "name": "vb-site-cms",
+  "version": "0.0.1",
+  "description": "A CMS for soccer or club sites",
+  "main": "keystone.js",
+  "keywords": [
+    "keystone",
+    "vb-site",
+    "vb-site-cms"],
+  "team": "ICWS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baszurburg/vb-site-cms"
+  },
+  "homepage": "https://github.com/baszurburg/vb-site-cms",
+  "bugs": {
+    "url": "https://github.com/baszurburg/vb-site-cms/issues"
+  },  
+  "authors": [
+    "Bas Zurburg <bas.zurburg@xs4all.nl>"
+  ],
+  "dependencies": {
+
+  },
+  "devDependencies": {
+  },
+  "resolutions": {
+  }
+}
